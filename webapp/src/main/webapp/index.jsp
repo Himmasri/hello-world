@@ -7,7 +7,7 @@
   </head>
   <body>
     <header>
-      <h1>Cloud Architect</h1>
+      <h1>Cloud Practitioner</h1>
       <nav>
         <ul>
           <li><a href="#">Home</a></li>
