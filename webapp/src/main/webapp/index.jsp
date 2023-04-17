@@ -20,7 +20,7 @@
     </header>
     <main>
       <section>
-        <h2>What is a Cloud Architect?</h2>
+        <h2>What is a Cloud soultion Architect?</h2>
         <p>A Cloud Architect is responsible for the design, planning, and implementation of cloud-based solutions that meet business and technical requirements. They work with developers, engineers, and stakeholders to identify and implement cloud solutions that improve scalability, reliability, and security.</p>
       </section>
       <section>
