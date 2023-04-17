@@ -36,8 +36,8 @@
         <h2>Blog</h2>
         <ul>
           <li><a href="#">5 Key Benefits of Cloud Computing</a></li>
-          <li><a href="#">How to Plan Your Cloud Migration</a></li>
-          <li><a href="#">what is The Importance of Cloud Security</a></li>
+          <li><a href="#"> Plan Your Cloud Migration</a></li>
+          <li><a href="#">The Importance of Cloud Security</a></li>
         </ul>
       </section>
     </main>
