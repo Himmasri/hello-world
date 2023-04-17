@@ -28,8 +28,8 @@
         <ul>
           <li><a href="#"> Cloud Strategy and Planning</a></li>
           <li><a href="#"> Cloud Infrastructure Design and Implementation</a></li>
-          <li><a href="#">What is Cloud Migration and Optimization</a></li>
-          <li><a href="#">What are Cloud Security and Compliance</a></li>
+          <li><a href="#">Cloud Migration and Optimization</a></li>
+          <li><a href="#">Cloud Security and Compliance</a></li>
         </ul>
       </section>
       <section>
