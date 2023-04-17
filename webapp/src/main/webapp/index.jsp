@@ -7,7 +7,7 @@
   </head>
   <body>
     <header>
-      <h1>Cloud Soultion Architect</h1>
+      <h1>Cloud Architect</h1>
       <nav>
         <ul>
           <li><a href="#">rhom</a></li>
